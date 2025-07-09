@@ -18,7 +18,7 @@
       {{-- <title>yt.digimar.id - Strategi YouTube Cerdas untuk Tumbuh Lebih Cepat</title>
       <meta name="title" content="yt.digimar.id - Strategi YouTube Cerdas untuk Tumbuh Lebih Cepat">
       <meta name="description" content="Buat konten menarik, tingkatkan subscriber, dan dorong konversi bisnis lewat strategi YouTube dari Digimar.">
-      <meta name="keywords" content="youtube marketing, strategi youtube, konten video, channel bisnis, subscriber youtube, video promosi, optimasi youtube, digimar youtube"> --}}
+      <meta name="keywords" content="youtube marketing, strategi youtube, konten video, channel bisnis, subscriber youtube, video promosi, optimasi youtube, digimar youtube, video youtube, youtube channel, konten youtube, video viral"> --}}
       <meta name="author" content="yt.digimar.id">
       <meta property="og:title" content="yt.digimar.id - Strategi YouTube Cerdas untuk Tumbuh Lebih Cepat">
       <meta property="og:description" content="Buat konten menarik, tingkatkan subscriber, dan dorong konversi bisnis lewat strategi YouTube dari Digimar.">
