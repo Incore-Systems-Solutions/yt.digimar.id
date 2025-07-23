@@ -10,6 +10,7 @@ return [
     'nav_6' => 'YT',
     'nav_7' => '社交媒体',
     'nav_7_1' => '社交媒体',
+    'nav_8' => '联盟计划',
     'nav_4' => '中文',
     'nav_5' => '海关解决方案',
     'image_nav' => 'https://www.indonesiacore.com/_astro/zh.DifnnI3t.svg',

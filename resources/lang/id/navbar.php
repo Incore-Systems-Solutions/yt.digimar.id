@@ -10,6 +10,7 @@ return [
     'nav_6' => 'YT',
     'nav_7' => 'Social Media',
     'nav_7_1' => 'Sosial Media',
+    'nav_8' => 'Affiliate',
     'nav_4' => 'Bahasa Indonesia',
     'nav_5' => 'Solusi BeaCukai',
     'image_nav' => 'https://www.indonesiacore.com/_astro/id.COWC0E3n.svg',

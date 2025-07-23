@@ -10,6 +10,7 @@ return [
     'nav_6' => 'YT',
     'nav_7' => 'وسائل التواصل الاجتماعي',
     'nav_7_1' => 'وسائل التواصل الاجتماعي',
+    'nav_8' => 'التسويق بالعمولة',
     'nav_4' => 'لعربية',
     'nav_5' => 'حلول الجمارك',
     'image_nav' => 'https://www.indonesiacore.com/_astro/sa.DMELvfVN.svg',

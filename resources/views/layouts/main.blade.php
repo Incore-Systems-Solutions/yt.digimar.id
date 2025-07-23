@@ -97,6 +97,9 @@
                         <li class="nav-item">
                            <a class="nav-link" href="https://sosialmedia.digimar.id">{{ __('navbar.nav_7_1') }}</a>
                         </li>
+                        <li class="nav-item">
+                           <a class="nav-link" href="https://affiliate.digimar.id">{{ __('navbar.nav_8') }}</a>
+                        </li>
                         {{-- <li class="nav-item">
                            <a class="nav-link" href="{{ url('kontak-kami') }}">{{ __('navbar.contact') }}</a>
                         </li> --}}

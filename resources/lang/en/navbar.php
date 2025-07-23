@@ -10,6 +10,7 @@ return [
     'nav_6' => 'YT',
     'nav_7' => 'Social Media',
     'nav_7_1' => 'Social Media',
+    'nav_8' => 'Affiliate',
     'nav_4' => 'English',
     'nav_5' => 'Solutions for Customs',
     'image_nav' => 'https://www.indonesiacore.com/_astro/en.DTXiLQoe.svg',
